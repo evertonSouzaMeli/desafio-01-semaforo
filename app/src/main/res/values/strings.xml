@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">semaforo</string>
+    <string name="pare">PARE</string>
+    <string name="sinal_de_espere">Sinal de Espere</string>
+    <string name="sinal_de_siga">Sinal de Siga</string>
+    <string name="sinal_de_pare">Sinal de Pare</string>
+</resources>
